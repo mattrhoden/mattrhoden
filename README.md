@@ -22,10 +22,10 @@ Stuff I'm dangerous with and will probably have questions for you about 🤔
 | 🏠 Frameworks | Django |
 | 🧰 Tools | Jetbrains Pycharm, Docker |
 
-### Fun Facts
+### 🥳 Fun Facts
 
+- Not to toot my own horn or anything, but the best latte's are made by me.
 - I'm a certified scuba diver, though I'm sure it's expired by now
-- The best latte's are made by me, not to toot my own horn or anything
 
 ### :link: Connect with Me!
 
@@ -33,7 +33,15 @@ Stuff I'm dangerous with and will probably have questions for you about 🤔
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:matt.rhoden@fool.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
 
+For fools:
+
+<a href="https://fool.slack.com/team/matt.rhoden">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</a>
 
 <!--
 **mattrhoden/mattrhoden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
