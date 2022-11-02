@@ -22,12 +22,6 @@ Stuff I'm dangerous with and will probably have questions for you about 🤔
 | 🏠 Frameworks | Django |
 | 🧰 Tools | Jetbrains Pycharm, Docker |
 
-### 🥳 Fun Facts
-
-- I'm superstitious about traffic lights, if I watch them too closely they'll turn red, but I don't want to NOT watch.
-- Not to toot my own horn or anything, but the best latte's are made by me.
-- I'm a certified scuba diver, I trained with the safety off, straight in the ocean.
-
 ### :link: Connect with Me!
 
 <a href="https://www.linkedin.com/in/matthewrhoden/">
